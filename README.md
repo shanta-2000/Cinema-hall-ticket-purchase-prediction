@@ -1,8 +1,8 @@
 # Cinema-hall-ticket-purchase-prediction
-##Dataset description
+## Dataset description
 This dataset records detailed information about ticket sales and customer behavior at a cinema hall, offering insights into various aspects such as demographics, movie genre preferences, seat selection, ticket pricing, and customer retention patterns. It is designed to help analyze customer engagement, spending behavior, and factors that influence repeat visits to the cinema. The data is useful for predictive modeling and can support decision-making processes related to customer retention, marketing strategies, and optimizing cinema operations.
 
-##Columns Overview:
+## Columns Overview:
 
 Ticket_ID (Categorical):
 
@@ -32,7 +32,7 @@ Purchase_Again (Target - Binary):
 
 Description: A binary target variable indicating whether the customer is likely to return and purchase another ticket. It has two possible values: Yes: The customer is likely to return for another movie. No: The customer is not likely to return. Significance: This is the key column for predictive modeling. It is used to assess customer retention and predict the likelihood of future ticket purchases. Analyzing the factors that influence repeat purchases (e.g., age, genre preferences, seat types) helps cinema halls optimize marketing and customer engagement strategies.
 
-#Task
+# Task
 Rename this notebook with your id
 
 Load given dataset
